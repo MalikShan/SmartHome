@@ -9,11 +9,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using SmartHome.Data;
-using SmartHome.Models;
-using SmartHome.Services;
+using SMARTHOME.Data;
+using SMARTHOME.Models;
+using SMARTHOME.Services;
 
-namespace SmartHome
+namespace SMARTHOME
 {
     public class Startup
     {

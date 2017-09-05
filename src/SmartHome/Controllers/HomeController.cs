@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace SmartHome.Controllers
+namespace SMARTHOME.Controllers
 {
     public class HomeController : Controller
     {

@@ -6,8 +6,8 @@
   </PropertyGroup>
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>ee93c034-59bd-4613-aad1-2dab189538be</ProjectGuid>
-    <RootNamespace>SmartHome</RootNamespace>
+    <ProjectGuid>cecbc615-48bf-45e3-8d74-a9ce00a84421</ProjectGuid>
+    <RootNamespace>SMARTHOME</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
